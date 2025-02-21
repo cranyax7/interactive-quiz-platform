@@ -2,7 +2,7 @@
 
 A dynamic quiz application built with React, Vite, and TailwindCSS that features multiple-choice and integer-based questions, real-time feedback, timer functionality, and persistent storage of quiz attempts.
 
-![Quiz Interface](https://raw.githubusercontent.com/cranyax7/interactive-quiz-platform/maipublic/sampleQiz.png)
+![Quiz Interface](https://github.com/cranyax7/interactive-quiz-platform/blob/main/public/sampleQuiz.png)
 
 ## Features
 
@@ -14,7 +14,7 @@ A dynamic quiz application built with React, Vite, and TailwindCSS that features
 - 🎨 Responsive design with Tailwind CSS
 - 🔄 Option to retake the quiz
 
-![Quiz Results](https://raw.githubusercontent.com/cranyax7/interactive-quiz-platform/maipublic/quizResult.png)
+![Quiz Results](https://github.com/cranyax7/interactive-quiz-platform/blob/main/public/quizResult.png)
 
 ## Setup
 
