@@ -2,6 +2,8 @@
 
 A dynamic quiz application built with React, Vite, and TailwindCSS that features multiple-choice and integer-based questions, real-time feedback, timer functionality, and persistent storage of quiz attempts.
 
+[Try it out here!](https://remarkable-crumble-7d2ffc.netlify.app/)
+
 ![Quiz Interface](https://github.com/cranyax7/interactive-quiz-platform/blob/main/public/sampleQuiz.png)
 
 ## Features
